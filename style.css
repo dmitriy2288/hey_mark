@@ -1,0 +1,17 @@
+header {
+	background-color: black;
+}
+
+.name {
+	text-align: center;
+	color: red;
+	padding: 2px;
+}
+
+main h2 {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
